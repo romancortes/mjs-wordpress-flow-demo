@@ -1,0 +1,1 @@
+montageDefine("212fdd0","ui/card.reel/card",{dependencies:["montage/ui/component"],factory:function(e,t){var n=e("montage/ui/component").Component;t.Card=n.specialize({constructor:{value:function(){this.super()}}})}});
