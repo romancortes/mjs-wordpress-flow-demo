@@ -16,6 +16,8 @@
     position: relative;
     width: 500px;
     height: 500px;
+    margin-left: -360px;
+    margin-top: -250px;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
 }
